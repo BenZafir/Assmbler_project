@@ -1,0 +1,63 @@
+user@ubuntu:~/Desktop/maman14$ ./assembler example_1 example_2 example_3 example_4 example_5
+working on - example_1
+
+success!
+
+working on - example_2
+
+Error in line number- 19: Worning: there is a value that biger then 2047 or smaller then -2048. the full number can not be represented in 12 bits 
+Error in line number- 20: Worning: there is a value that biger then 2047 or smaller then -2048. the full number can not be represented in 12 bits 
+Error in line number- 21: Worning: there is a value that biger then 2047 or smaller then -2048. the full number can not be represented in 12 bits 
+Error in line number- 23: Worning: there is a value that biger then 2047 or smaller then -2048. the full number can not be represented in 12 bits 
+Error in line number- 24: Worning: there is a value that biger then 2047 or smaller then -2048. the full number can not be represented in 12 bits 
+success!
+
+working on - example_3
+
+success!
+
+working on - example_4
+
+Error in line number- 1: there is an invalid name to a label (structure: <label:> <command> <value>,<...>) 
+Error in line number- 6: there is invalid value to the value that represent the destnation mode 
+Error in line number- 7: there is invalid value to the value that represent the destnation mode 
+Error in line number- 7: there is invalid value to the value that represent the source mode 
+Error in line number- 8: doplicat labels, this label already exist 
+Error in line number- 9: there is an invalid name to a label (structure: <label:> <command> <value>,<...>) 
+Error in line number- 11: there is an invalid name to a label (structure: <label:> <command> <value>,<...>) 
+Error in line number- 12: there is an invalid name to a label (structure: <label:> <command> <value>,<...>) 
+Error in line number- 12: there are invalid names to values (structure : <label : > <command> <value>, <...>) 
+Error in line number- 13: there is an invalid name to a label (structure: <label:> <command> <value>,<...>) 
+Error in line number- 14: there is an invalid name to a label (structure: <label:> <command> <value>,<...>) 
+Error in line number- 14: there are invalid names to values (structure : <label : > <command> <value>, <...>) 
+Error in line number- 14: there is invalid value to the value that represent the destnation mode 
+Error in line number- 14: there are invalid names to values (structure : <label : > <command> <value>, <...>) 
+Error in line number- 14: there is invalid value to the value that represent the source mode 
+Error in line number- 15: there are too few values. 
+Error in line number- 15: there are invalid names to values (structure : <label : > <command> <value>, <...>) 
+Error in line number- 16: there are too many values. 
+Error in line number- 16: there is invalid value to the value that represent the destnation mode 
+Error in line number- 3: one of the value that refer to address by label refer to a label name that does not exist 
+Error in line number- 4: one of the value that refer to address by label refer to a label name that does not exist 
+Error in line number- 5: one of the value that refer to address by label refer to a label name that does not exist 
+There was some errors in the source file. output files are not created for this file.
+
+ working on - example_5
+
+Error in line number- 1: there is invalid value to the value that represent the destnation mode 
+Error in line number- 1: there is invalid value to the value that represent the source mode 
+Error in line number- 8: there are invalid names to values (structure : <label : > <command> <value>, <...>) 
+Error in line number- 9: there is an invalid name to a label (structure: <label:> <command> <value>,<...>) 
+Error in line number- 9: there are invalid names to values (structure : <label : > <command> <value>, <...>) 
+Error in line number- 10: doplicat labels, this label already exist 
+Error in line number- 11: there is an invalid name to a label (structure: <label:> <command> <value>,<...>) 
+Error in line number- 11: there are invalid names to values (structure : <label : > <command> <value>, <...>) 
+Error in line number- 12: there is an invalid name to a command (structure: <label:> <command> <value>,<...>) 
+Error in line number- 13: there is an invalid name to a command (structure: <label:> <command> <value>,<...>) 
+Error in line number- 14: there is an invalid name to a command (structure: <label:> <command> <value>,<...>) 
+Error in line number- 15: there is an invalid name to a command (structure: <label:> <command> <value>,<...>) 
+Error in line number- 5: one of the value that refer to address by label refer to a label name that does not exist 
+Error in line number- 6: one of the value that refer to address by label refer to a label name that does not exist 
+Error in line number- 7: one of the value that refer to address by label refer to a label name that does not exist 
+There was some errors in the source file. output files are not created for this file.
+
